@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RzeVadL0hI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NDhavale\\Desktop\\TeklaOpenAPI\\DoubleSidedGirtConn\\DoubleSidedGirtConn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NDhavale\\.nuget\\packages\\tekla.common.geometry\\4.6.2\\tekla.common.geometry.4.6.2.nupkg.sha512",
+    "C:\\Users\\NDhavale\\.nuget\\packages\\tekla.structures\\2023.0.1\\tekla.structures.2023.0.1.nupkg.sha512",
+    "C:\\Users\\NDhavale\\.nuget\\packages\\tekla.structures.datatype\\2023.0.1\\tekla.structures.datatype.2023.0.1.nupkg.sha512",
+    "C:\\Users\\NDhavale\\.nuget\\packages\\tekla.structures.model\\2023.0.1\\tekla.structures.model.2023.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
