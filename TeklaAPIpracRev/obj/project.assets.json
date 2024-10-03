@@ -1,0 +1,516 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "Tekla.Common.Geometry/4.6.2": {
+        "type": "package",
+        "compile": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        },
+        "runtime": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        }
+      },
+      "Tekla.Structures/2023.0.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Datatype/2023.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Model/2023.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Tekla.Structures": "2023.0.1",
+          "Tekla.Structures.Datatype": "2023.0.1"
+        },
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "Tekla.Common.Geometry/4.6.2": {
+        "type": "package",
+        "compile": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        },
+        "runtime": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        }
+      },
+      "Tekla.Structures/2023.0.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Datatype/2023.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Model/2023.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Tekla.Structures": "2023.0.1",
+          "Tekla.Structures.Datatype": "2023.0.1"
+        },
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "Tekla.Common.Geometry/4.6.2": {
+        "type": "package",
+        "compile": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        },
+        "runtime": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        }
+      },
+      "Tekla.Structures/2023.0.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Datatype/2023.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Model/2023.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Tekla.Structures": "2023.0.1",
+          "Tekla.Structures.Datatype": "2023.0.1"
+        },
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "Tekla.Common.Geometry/4.6.2": {
+        "type": "package",
+        "compile": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        },
+        "runtime": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        }
+      },
+      "Tekla.Structures/2023.0.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Datatype/2023.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Model/2023.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Tekla.Structures": "2023.0.1",
+          "Tekla.Structures.Datatype": "2023.0.1"
+        },
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "Tekla.Common.Geometry/4.6.2": {
+        "type": "package",
+        "compile": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        },
+        "runtime": {
+          "lib/net/LibTessDotNet.dll": {},
+          "lib/net/Tekla.Common.Geometry.Algorithms.dll": {},
+          "lib/net/Tekla.Common.Geometry.Primitives.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll": {},
+          "lib/net/Tekla.Common.Geometry.Shapes.dll": {},
+          "lib/net/Tekla.Common.Geometry.Topology.dll": {},
+          "lib/net/Tekla.Common.Geometry.dll": {}
+        }
+      },
+      "Tekla.Structures/2023.0.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Datatype/2023.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Datatype.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Tekla.Structures.Model/2023.0.1": {
+        "type": "package",
+        "dependencies": {
+          "Tekla.Structures": "2023.0.1",
+          "Tekla.Structures.Datatype": "2023.0.1"
+        },
+        "frameworkAssemblies": [
+          "System.Runtime.Remoting"
+        ],
+        "compile": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/Tekla.Structures.Model.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tekla.Common.Geometry/4.6.2": {
+      "sha512": "5+jJDmzC363ys51JbrQap0LdtflTpSJVpW9oUQbtlem+SBcwrFQkA16xg3ddKv6tQ0iMXwPe7DP0PbV+Qj9GMw==",
+      "type": "package",
+      "path": "tekla.common.geometry/4.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/native/Tekla.Common.Geometry.props",
+        "lib/net/LibTessDotNet.dll",
+        "lib/net/Tekla.Common.Geometry.Algorithms.dll",
+        "lib/net/Tekla.Common.Geometry.Primitives.dll",
+        "lib/net/Tekla.Common.Geometry.Shapes.Tools.dll",
+        "lib/net/Tekla.Common.Geometry.Shapes.dll",
+        "lib/net/Tekla.Common.Geometry.Topology.dll",
+        "lib/net/Tekla.Common.Geometry.dll",
+        "lib/netstandard2.0/LibTessDotNet.dll",
+        "lib/netstandard2.0/Tekla.Common.Geometry.Algorithms.dll",
+        "lib/netstandard2.0/Tekla.Common.Geometry.Primitives.dll",
+        "lib/netstandard2.0/Tekla.Common.Geometry.Shapes.Tools.dll",
+        "lib/netstandard2.0/Tekla.Common.Geometry.Shapes.dll",
+        "lib/netstandard2.0/Tekla.Common.Geometry.Topology.dll",
+        "lib/netstandard2.0/Tekla.Common.Geometry.dll",
+        "tekla.common.geometry.4.6.2.nupkg.sha512",
+        "tekla.common.geometry.nuspec"
+      ]
+    },
+    "Tekla.Structures/2023.0.1": {
+      "sha512": "M+3JfeWQsgYH3Lukhkfb/7nDOuANymde1HBYeyv+qG98vuIsgiU6u66vJv3XXiYM2islRodCBn7+ZI3vaJ1Tug==",
+      "type": "package",
+      "path": "tekla.structures/2023.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "eula.txt",
+        "lib/net40/Tekla.Structures.dll",
+        "lib/net40/Tekla.Structures.xml",
+        "logo.png",
+        "tekla.structures.2023.0.1.nupkg.sha512",
+        "tekla.structures.nuspec"
+      ]
+    },
+    "Tekla.Structures.Datatype/2023.0.1": {
+      "sha512": "24KbR++C2WYEIyDymIHX/AVuHYcgwyQrvgExMKDnMobQPNM+AmMNnwdyYxBbw4AvYXd8QHoi+lmmavhTCL8E3w==",
+      "type": "package",
+      "path": "tekla.structures.datatype/2023.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "eula.txt",
+        "lib/net40/Tekla.Structures.Datatype.dll",
+        "lib/net40/Tekla.Structures.Datatype.xml",
+        "logo.png",
+        "tekla.structures.datatype.2023.0.1.nupkg.sha512",
+        "tekla.structures.datatype.nuspec"
+      ]
+    },
+    "Tekla.Structures.Model/2023.0.1": {
+      "sha512": "99e9lyTcW+Me4c4wUKqLbXoxHusPGSeBJGf01Upzg2lzXzaw5pUmVxEikNvievoN9Qt3Y09NTvhuL87UML7OIQ==",
+      "type": "package",
+      "path": "tekla.structures.model/2023.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "eula.txt",
+        "lib/net40/Tekla.Structures.Model.dll",
+        "lib/net40/Tekla.Structures.Model.xml",
+        "logo.png",
+        "tekla.structures.model.2023.0.1.nupkg.sha512",
+        "tekla.structures.model.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Tekla.Common.Geometry >= 4.6.2",
+      "Tekla.Structures >= 2023.0.1",
+      "Tekla.Structures.Model >= 2023.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\NDhavale\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\NDhavale\\source\\repos\\TeklaAPIpracRev\\TeklaAPIpracRev.csproj",
+      "projectName": "TeklaAPIpracRev",
+      "projectPath": "C:\\Users\\NDhavale\\source\\repos\\TeklaAPIpracRev\\TeklaAPIpracRev.csproj",
+      "packagesPath": "C:\\Users\\NDhavale\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NDhavale\\source\\repos\\TeklaAPIpracRev\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\NDhavale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "Tekla.Common.Geometry": {
+            "target": "Package",
+            "version": "[4.6.2, )"
+          },
+          "Tekla.Structures": {
+            "target": "Package",
+            "version": "[2023.0.1, )"
+          },
+          "Tekla.Structures.Model": {
+            "target": "Package",
+            "version": "[2023.0.1, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-arm64": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
