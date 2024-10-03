@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\NDhavale\\Desktop\\TeklaOpenAPI\\GirtConnWFA\\GirtConnWFA.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\NDhavale\\Desktop\\TeklaOpenAPI\\GirtConnWFA\\GirtConnWFA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\NDhavale\\Desktop\\TeklaOpenAPI\\GirtConnWFA\\GirtConnWFA.csproj",
+        "projectName": "GirtConnWFA",
+        "projectPath": "C:\\Users\\NDhavale\\Desktop\\TeklaOpenAPI\\GirtConnWFA\\GirtConnWFA.csproj",
+        "packagesPath": "C:\\Users\\NDhavale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NDhavale\\Desktop\\TeklaOpenAPI\\GirtConnWFA\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\NDhavale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Tekla.Common.Geometry": {
+              "target": "Package",
+              "version": "[4.6.2, )"
+            },
+            "Tekla.Structures": {
+              "target": "Package",
+              "version": "[2023.0.1, )"
+            },
+            "Tekla.Structures.Model": {
+              "target": "Package",
+              "version": "[2023.0.1, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
