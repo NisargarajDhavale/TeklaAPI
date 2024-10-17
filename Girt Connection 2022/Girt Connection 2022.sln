@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Girt Connection 2022", "Girt Connection 2022.csproj", "{D3DC2F6E-AA5A-46AD-B7F8-6A13B516EBDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DC2F6E-AA5A-46AD-B7F8-6A13B516EBDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DC2F6E-AA5A-46AD-B7F8-6A13B516EBDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DC2F6E-AA5A-46AD-B7F8-6A13B516EBDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DC2F6E-AA5A-46AD-B7F8-6A13B516EBDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0A4C89F-58A2-4628-8D44-CFA1DDAEB32A}
+	EndGlobalSection
+EndGlobal
