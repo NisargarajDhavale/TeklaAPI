@@ -1,0 +1,21 @@
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Girt Connection 2022.exe.config
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Girt Connection 2022.exe
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Girt Connection 2022.pdb
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\LibTessDotNet.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Tekla.Common.Geometry.Algorithms.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Tekla.Common.Geometry.Primitives.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Tekla.Common.Geometry.Shapes.Tools.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Tekla.Common.Geometry.Shapes.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Tekla.Common.Geometry.Topology.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Tekla.Common.Geometry.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Tekla.Structures.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\obj\Debug\Girt Connection 2022.csproj.AssemblyReference.cache
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\obj\Debug\Girt_Connection_2022.Form1.resources
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\obj\Debug\Girt_Connection_2022.Properties.Resources.resources
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\obj\Debug\Girt Connection 2022.csproj.GenerateResource.cache
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\obj\Debug\Girt Connection 2022.csproj.CoreCompileInputs.cache
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\obj\Debug\Girt Con.7DC84BAB.Up2Date
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\obj\Debug\Girt Connection 2022.exe
+C:\Users\NDhavale\Desktop\Tekla22\VS\Girt Connection 2022\obj\Debug\Girt Connection 2022.pdb
